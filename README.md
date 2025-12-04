@@ -5,6 +5,7 @@ Este proyecto implementa un sistema completo en Python para automatizar el anál
 El sistema fue desarrollado con el objetivo de reducir horas de trabajo manual, mejorar la trazabilidad documental y generar reportes estandarizados.
 
 🚀 Características Principales
+
 🔎 1. Procesamiento de PDF avanzado
 
 Limpieza de pies de página, encabezados y numeración.
