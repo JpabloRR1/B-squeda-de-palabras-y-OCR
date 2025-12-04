@@ -18,9 +18,6 @@ Normalización de texto para análisis limpio.
 
 Matcheo basado en catálogos de:
 
-Directrices
-
-Lineamientos
 
 Sub-índices
 
