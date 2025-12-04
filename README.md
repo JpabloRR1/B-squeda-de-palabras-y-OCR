@@ -62,3 +62,11 @@ Soporte para:
 .docx → .pdf
 
 OCR integrado con Tesseract y Poppler.
+
+👤 Autor
+
+Juan Pablo Ruiz
+Ciencia de Datos para Negocios
+✉️ pabloeeer@hotmail.com
+
+📍 CDMX
